@@ -1,7 +1,7 @@
 Assignment : Write a program to interpret the language of the file passed
 (for example : Ruby, PHP, Java), in C++
 
-Tasks                                                            Status
+Sub-Tasks                                                            Status
 Identify Language                                                 DONE
 Identify Class Name                                               DONE
 List down the methods inside class                                DONE
